@@ -1,0 +1,56 @@
+body{
+    background-color: beige;
+}
+#firstcon{
+    position: absolute;
+    background-color: black;
+    height: 100px;
+    width: 100%;
+
+
+}
+#secondcon{
+   /* background-color: red; */
+   margin: 10px;
+   height: 80px;
+   border: 1px solid red;
+   border-radius: 5px;
+   border-color: beige;
+   
+}#lastcontent{
+
+}
+ #p_tag{
+    color: white;
+    margin: 0;
+}
+#icon{
+    margin-right: 8px;
+    /* height: 15px;8
+    width: 15px; */
+}
+#textar input{
+    width: 90%;
+    background-color: black;
+    outline: none;
+    border: none;
+    color: white;
+    margin-left: 12px;
+    
+
+}
+#lastcontent span:nth-child(1){
+    margin-left: 2px;
+}
+#iconn{
+    color: white;
+}
+.buttom_icon{
+    margin-left: 5px;
+}
+.buttom_icon span:nth-child(2){
+    color: white;
+}
+#sender{
+    background-color: blue;
+}
